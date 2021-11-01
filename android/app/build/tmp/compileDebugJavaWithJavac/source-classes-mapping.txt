@@ -1,0 +1,14 @@
+com/intern1/BuildConfig.java
+ com.intern1.BuildConfig
+com/intern1/ReactNativeFlipper.java
+ com.intern1.ReactNativeFlipper
+ com.intern1.ReactNativeFlipper$1
+ com.intern1.ReactNativeFlipper$2
+ com.intern1.ReactNativeFlipper$2$1
+com/intern1/MainActivity.java
+ com.intern1.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/intern1/MainApplication.java
+ com.intern1.MainApplication
+ com.intern1.MainApplication$1
